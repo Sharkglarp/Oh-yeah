@@ -1,4 +1,4 @@
 # Oh-yeah
 this is awsome
 
-Open setup OHYEAH and then setup to enlightened
+Open OHYEAH and then setup to enlightened
